@@ -1,0 +1,4 @@
+#sed '3q' emp.lst
+2233:charles harris :g.m. :sales :12/12/52: 90000
+9876:bill johnson :director :production :03/12/50: 130000
+5678:robert dylan :d.g.m. :marketing :04/19/43: 85000
